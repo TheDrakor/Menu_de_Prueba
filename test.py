@@ -1,4 +1,6 @@
-print("\n1.-Suma de 2 numeros\n2.-Sacar el area de un triangulo\n3.-Numero negativo o positivo\n")
+print("\n1.-Suma de 2 numeros")
+print("\n2.-Sacar el area de un triangulo")
+print("\n3.-Numero negativo o positivo")
 
 opcion = ''
 
