@@ -1,7 +1,5 @@
-def menu_principal():
-	print("\n1.-Suma de 2 numeros\n2.-Sacar el area de un triangulo\n3.-Numero negativo o positivo\n")
+print("\n1.-Suma de 2 numeros\n2.-Sacar el area de un triangulo\n3.-Numero negativo o positivo\n")
 
-menu_principal()
 opcion = ''
 
 while opcion != "S":
